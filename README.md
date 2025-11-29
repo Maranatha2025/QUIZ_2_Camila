@@ -1,3 +1,3 @@
 # QUIZ_2--
-5 temas bitacora
-1. TEMA OLED
+7 temas bitacora
+1. Tema Hardware 
